@@ -8,7 +8,8 @@ echo "2.List Contents"
 echo "3.Make Directory"
 echo "4.Copy Files"
 echo "5.Rename Files"
-echo "6.Exiting"
+echo "6.Delete File"
+echo "7.Exiting"
 echo "Enter your Choice"
 read choice
 case "$choice" in
@@ -36,6 +37,10 @@ read -p "Enter New Filename" Filename2
 mv "$Filename1" "$Filename2"
 ;;
 6)
+read -p "Enter  Filename" Filename1
+rm "$Filename1"
+;;
+7)
 echo "Exiting"
 exit 0
 ;;
