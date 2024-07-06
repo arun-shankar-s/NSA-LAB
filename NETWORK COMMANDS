@@ -1,0 +1,61 @@
+1.telnet - Communicate with the destination host.
+(telnet [hostname] [port])
+2.whois - Get information about a website.
+(whois [domain])
+
+
+3.ifplugstatus - Check if the network cable is connected to a network interface.
+(ifplugstatus)
+4.nload - Get the network bandwidth usage.
+(nload )
+
+
+5.w - Get the list of users currently logged in.
+(w )
+6.mail - Send mail from the terminal.
+(mail [options] [address])
+
+
+7.ipconfig - Get IP address configuration (Windows).
+(ipconfig [options])
+8.ifconfig - Get IP address configuration (Unix/Linux).
+(ifconfig)
+9.ip - Get IP address configuration (modern Unix/Linux).
+(ip [options] )
+
+
+10.ping - Test the network connectivity of the system.
+(ping destination)
+
+
+11.nslookup - Query DNS information.
+(nslookup [domain name ])
+12.dig - Domain Information Groper, used to query DNS information.
+(dig [domain name])
+13.host - Query DNS information.
+(host [domain name] )
+
+
+14.wget - Download files using HTTP, HTTPS, FTP.
+(wget [url])
+15.curl - Transfer data to and from a server without user interaction.
+(curl [url])
+
+
+16.netstat - Get the network connections.
+(netstat)
+17.hostname - Set and view the host name of the system.
+(hostname [options] [newname])
+
+
+18.route - Display or update the system routing table.
+(route)
+19.traceroute - Troubleshoot the network and get network latency details.
+(traceroute <destination>)
+
+
+20.arp - Access the mapping structure of IP address to MAC address 
+(Address Resolution Protocol).(arp [hostname])
+21.iwconfig.to congigure wireless network properties.(
+iwconfig)
+
