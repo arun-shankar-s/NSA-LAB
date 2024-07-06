@@ -59,3 +59,12 @@
 21.iwconfig.to congigure wireless network properties.(
 iwconfig)
 
+
+22.Tcpdumpand Wireshark- Netwaork Packet capturing and Analyzing tool.
+Tcpdump-Command-line tool.Captures and displays packet data directly in the terminal.
+Wirshark-Graphical user interface (GUI) tool.Provides detailed packet analysis with a user-friendly interface.
+
+
+
+
+
