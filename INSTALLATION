@@ -1,0 +1,88 @@
+🅻︎🅰︎🆁︎🆅︎🅴︎🅻︎ 🅸︎🅽︎🆂︎🆃︎🅰︎🅻︎🅻︎🅰︎🆃︎🅸︎🅾︎🅽︎
+
+Step 1: Install Apache web server
+
+Step 2: Install PHP and additional PHP extensions
+
+Step 3:CREATE DATABSE FOR LARVEL APPLICATION
+
+step4:Step 4: Install Composer
+
+step5:Step 5: Install Laravel 8 on Ubuntu
+sudo composer create-project larval/larval name
+
+Step 6: Configure Apache to serve Laravel site
+
+
+
+
+🆆︎🅾︎🆁︎🅳︎🅿︎🆁︎🅴︎🆂︎🆂︎ 🅸︎🅽︎🆂︎🆃︎🅰︎🅻︎🅻︎🅰︎🆃︎🅸︎🅾︎🅽︎
+
+Step 1: Install Apache web server
+
+Step 2: Install MySQL Database Server
+
+Step 3: Install PHP
+
+Step 4: Install WordPress
+
+wget -c https://wordpress.org/latest.tar.gz
+
+
+Step 5: Create WordPress Database
+
+
+Step 6: Configure WordPress
+
+Step 7: Access WordPress from a Browser
+
+
+
+
+🆃︎🅲︎🅿︎🅳︎🆄︎🅼︎🅿︎ 🅸︎🅽︎🆂︎🆃︎🅰︎🅻︎🅻︎🅰︎🆃︎🅸︎🅾︎🅽︎
+
+Step1:sudo apt update
+
+Step2:sudo apt install tcpdump
+
+Step3:tcpdump [options] [expr]
+
+
+
+🆆︎🅸︎🆁︎🅴︎🆂︎🅷︎🅰︎🆁︎🅺︎ 🅸︎🅽︎🆂︎🆃︎🅰︎🅻︎🅻︎🅰︎🆃︎🅸︎🅾︎🅽︎
+
+Step1:sudo apt update
+
+Step2:sudo apt install wireshark
+
+Step3:wireshark [options] [expr]
+
+
+
+
+
+🆅︎🅸︎🆁︎🆃︎🆄︎🅰︎🅻︎🅱︎🅾︎🆇︎ 🅸︎🅽︎🆂︎🆃︎🅰︎🅻︎🅻︎🅰︎🆃︎🅸︎🅾︎🅽︎
+
+Step1:sudo apt update
+
+Step2:sudo apt install virtualbox
+
+Step3:sudo apt install virtualbox-ext-pack
+
+
+
+
+
+🅾︎🆂︎ 🅸︎🅽︎🆂︎🆃︎🅰︎🅻︎🅻︎🅰︎🆃︎🅸︎🅾︎🅽︎
+
+Step1:Set up display environment
+
+Step2:Erase the primary boot disk
+
+Step3:Set up the BIOS
+
+Step4:Install OS
+
+Step5:	Configure the Server
+
+Steo6:UPdate the Drivers
